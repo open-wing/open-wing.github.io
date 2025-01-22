@@ -1,0 +1,79 @@
+{
+  "games": [
+    {
+      "id": "customminigames",
+      "name": "Custom Minigames",
+      "link": "https://www.roblox.com/games/4796282774/Custom-Minigames",
+      "creator": "Customs Community",
+      "description": "A fun little cozy game to pass the time, collect stuff, meet new people, compete in chill leaderboards, and hangout. Basically a barebones alternative to Epic Minigames.",
+      "submitted_by": "Kleosfellow",
+      "icon": "https://tr.rbxcdn.com/180DAY-b770e62404557f27161e2fc0ecd122c6/256/256/Image/Webp/noFilter",
+      "banner": "https://tr.rbxcdn.com/180DAY-adf5000fe8a73a236d6fe8fd1d7a4f4b/768/432/Image/Webp/noFilter",
+      "genres": ["Medium", "Minigames", "Oldschool", "Hangout"],
+      "age": "all ages",
+      "R6": true,
+      "R15": false,
+      "vc": true
+    },
+    {
+      "id": "paxamericana",
+      "name": "Pax Americana",
+      "link": "https://www.roblox.com/games/2599040464/Pax-Americana",
+      "creator": "xLawOut",
+      "description": "Very fun game with lots of things to do, super heated and very active factions gameplay, tight-knit community, and 2017-era gameplay style with robust mechanics and weapons. It is a bit toxic and polarized, but the moderators are mature and the owner is present. Great alternative to The Wild West.",
+      "submitted_by": "Kleosfellow",
+      "icon": "https://tr.rbxcdn.com/180DAY-bfae57c52658432efff59c02d4b53ef6/256/256/Image/Webp/noFilter",
+      "banner": "https://tr.rbxcdn.com/180DAY-5c8dc1d7deff8900f2cc2546cbfa4040/768/432/Image/Webp/noFilter",
+      "genres": ["Medium", "Shooting", "Western", "Factions", "Indie", "Open world"],
+      "age": "13+",
+      "R6": true,
+      "R15": false,
+      "vc": false
+    },
+    {
+      "id": "bulwark",
+      "name": "Bulwark",
+      "link": "https://www.roblox.com/games/6168898345/Bulwark",
+      "creator": "ChiaPetDie",
+      "description": "Highly realistic R6 game having solid, satisfactory, and historically acurrate mechanics, with rich gameplay styles and character custumization. Bulwark has a lot of weapons to choose from, and mechanics like parrying, feinting, and deflecting. Solid game with a nice lore, medieval fun, and a gorgeous map.",
+      "submitted_by": "Kleosfellow",
+      "icon": "https://tr.rbxcdn.com/180DAY-c3b455cea7114d8a2a1a4a16c7ea301f/256/256/Image/Webp/noFilter",
+      "banner": "https://tr.rbxcdn.com/180DAY-b33408c5b226300cab9e71179fb42bd1/768/432/Image/Webp/noFilter",
+      "genres": ["Medium", "Medieval", "Realistic", "Melee"],
+      "age": "13+",
+      "R6": true,
+      "R15": false,
+      "vc": true
+    },
+    {
+      "id": "nullxiety",
+      "name": "Nullxiety",
+      "link": "https://www.roblox.com/games/3723475719/Nullxiety",
+      "creator": "Nullxiety",
+      "description": "A horror-like game where you and up to 100 other people (generally its just you as the game is a bit dead) participate in various challenges so that \"Null\" can discover who is the strongest player. Has some nice amount of lore, but it is a hard game and it needs a lot of thinking.",
+      "submitted_by": "Kleosfellow",
+      "icon": "https://tr.rbxcdn.com/180DAY-57adc96998e5639e05f6e5dda0fa2f60/256/256/Image/Webp/noFilter",
+      "banner": "https://tr.rbxcdn.com/180DAY-bde1ee72576aeb31e388d3d13aeb033f/768/432/Image/Webp/noFilter",
+      "genres": ["Small", "Horror", "Social experiment", "Indie"],
+      "age": "13+",
+      "R6": true,
+      "R15": false,
+      "vc": false
+    },
+    {
+      "id": "doomed",
+      "name": "Doomed",
+      "link": "https://www.roblox.com/games/18630833975/DOOMED-Alpha-2",
+      "creator": "LuaShoe",
+      "description": "An open world fighting game, where you can play as about 22 different creatures and monsters ranging from oversized moths made out of cloth, three-legged mammals made out of sand, giant rock titans that came straight from ancient Old World mythology, to even sentient naturally-exploding bio-mechanic animals, all with different abilities. One of the best games of all Roblox, and it has a mildly active community.",
+      "submitted_by": "Kleosfellow",
+      "icon": "https://tr.rbxcdn.com/180DAY-19fa640a8f172f267af04ccd2ab9d2c2/256/256/Image/Webp/noFilter",
+      "banner": "https://tr.rbxcdn.com/180DAY-ad50dd67af0c6f78a828a20af523c91f/768/432/Image/Webp/noFilter",
+      "genres": ["Small", "Battlegrounds", "Open world", "Indie"],
+      "age": "all ages",
+      "R6": false,
+      "R15": true,
+      "vc": false
+    }
+  ]
+}
