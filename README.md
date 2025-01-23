@@ -21,4 +21,29 @@ Simple, barebones, no-bs website made to make it easier to find hidden gems and 
       "vc": false // True if the game supports voice chat, false if it doesn't.
     }
 ```
-3. After this, 
+3. After having saved the edited text somewhere, fork this repository, go to 'games.json', and add comma exactly where the pointer is, then paste the text you just saved.
+
+![image](https://github.com/user-attachments/assets/e331b97d-cb4e-47e5-9836-3fa834e100a0)
+
+4. Now create a .html file in the 'game/' directory, named exactly what you put in the 'id', then copy and paste this code and put it in, **do not change anything**.
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Loading...</title>
+  <script src="../scripts/script.js"></script>
+  <link rel="stylesheet" href="../styles/style.css">
+</head>
+<body>
+</body>
+</html>
+```
+
+After you have done that, it should look something like this. Do not forget to put the .html at the end: 
+
+![image](https://github.com/user-attachments/assets/0c02f4a9-cf20-41dc-9e36-7f137db06db5)
+
+5. Finally, just open a pull request based on your fork and I will soon review it, play the game, and add your submission. Thank you for contributing to Openwing!
