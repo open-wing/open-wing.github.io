@@ -104,6 +104,21 @@
       "R6": true, 
       "R15": false,
       "vc": false
+    },
+    {
+      "id": "criticalstrike",
+      "name": "Critical Strike",
+      "link": "https://www.roblox.com/games/8246089782/CRITICAL-STRIKE-v5-9-8",
+      "creator": "Critical Studio"
+      "description": "A classic battlegrounds game from 2013 that gives you the option to choose from hundreds of different classes with unique abilities and fight with players in various maps. Now revived, Critical Strike is a very fun game to play, try new classes, different strategies, grind, and pass the time, whether you are a new or an experienced player.",
+      "submitted_by": "Kleosfellow",
+      "icon": "https://tr.rbxcdn.com/180DAY-b0247dca16467279b0144207a4e83ac4/512/512/Image/Webp/noFilter",
+      "banner": "https://tr.rbxcdn.com/180DAY-24f887e6358460d9d4c0c08cc24c092c/768/432/Image/Webp/noFilter",
+      "genres": ["Medium", "Battlegrounds", "Shooting", "Melee", "Oldschool"],
+      "age": "10+",
+      "R6": true,
+      "R15": false,
+      "vc": false
     }
   ]
 }
