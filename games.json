@@ -104,6 +104,21 @@
       "R6": true, 
       "R15": false,
       "vc": false
+    },
+    {
+      "id": "tripodinvasion",
+      "name": "Tripod Invasion",
+      "link": "https://www.roblox.com/games/15141854424/Tripod-Invasion",
+      "creator": "ChelGames Development",
+      "description": "A well made horror-like where you can either play as a hopeless human praying to not get crushed like a pathethic bug, or as a gargantuan alien-like mechanical tripod that shoots lasers out of its hands. It is somewhat incomplete and experimental, but it is still worth to check out because the tripod model is well made and its movement mechanics too.",
+      "submitted_by": "Kleosfellow",
+      "icon": "https://tr.rbxcdn.com/180DAY-ec041b3734f22aa101faa1843e565403/256/256/Image/Webp/noFilter",
+      "banner": "https://tr.rbxcdn.com/180DAY-ce03a667dc66a8c85f4bbc458c1f3456/768/432/Image/Webp/noFilter",
+      "genres": ["Moribund", "Horror", "Morph", "Alien"],
+      "age": "11+",
+      "R6": true, 
+      "R15": false,
+      "vc": false
     }
   ]
 }
