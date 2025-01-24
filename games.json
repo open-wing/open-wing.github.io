@@ -62,7 +62,7 @@
     },
     {
       "id": "doomed",
-      "name": "Doomed",
+      "name": "DOOMED",
       "link": "https://www.roblox.com/games/18630833975/DOOMED-Alpha-2",
       "creator": "LuaShoe",
       "description": "An open world fighting game, where you can play as about 22 different creatures and monsters ranging from oversized moths made out of cloth, three-legged mammals made out of sand, giant rock titans that came straight from ancient Old World mythology, to even sentient naturally-exploding bio-mechanic animals, all with different abilities. One of the best games of all Roblox, and it has a mildly active community.",
@@ -86,6 +86,21 @@
       "banner": "https://tr.rbxcdn.com/180DAY-7926894cee8d95bd9e7cc526689c4eb4/768/432/Image/Webp/noFilter",
       "genres": ["Dead", "Showcase", "Spiritual", "Philosophical", "Indie"],
       "age": "all ages",
+      "R6": true, 
+      "R15": false,
+      "vc": false
+    },
+    {
+      "id": "sundowner",
+      "name": "SUNDOWNER",
+      "link": "https://www.roblox.com/games/14074645643/SUNDOWNER",
+      "creator": "Newberiance & Xetheriance",
+      "description": "An unforgiving psychological experience, where your goal is to scavenge for scarce food in an uncanny, god-forsaken desert, struggling to survive not only because of hunger, but because of the constant reminder of all kinds of terrific deaths. Solid and melancholic game with unique visuals, a heavy lore, and multiple different endings.",
+      "submitted_by": "Kleosfellow",
+      "icon": "https://tr.rbxcdn.com/180DAY-64a2fde7faf89de0fe8abcaf2d0895a6/150/150/Image/Webp/noFilter",
+      "banner": "https://tr.rbxcdn.com/180DAY-a2e5f67415e1811add3bb00f701d5e8c/768/432/Image/Webp/noFilter",
+      "genres": ["Small", "Singleplayer", "Horror", "Philosophical", "Multiple endings"],
+      "age": "13+",
       "R6": true, 
       "R15": false,
       "vc": false
