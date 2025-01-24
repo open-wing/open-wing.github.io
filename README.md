@@ -94,6 +94,8 @@ Also, there is the "Indie" genre, that must be always inserted when the game is 
 
 - "**Melee**" - games opposing to shooting games, where its main mechanic includes melee weapons, contrasting with gun or bow games for example (shooting games that also have melee fighting options are not included)
 
-- "**Social experiment**" - eeeeeeeee
+- "**Social experiment**" - games that are made to test mental experiment on players in order to see how they react to something (if in doubt, check the other submissions with the social experiment genre)
 
-- "**eeeeeeeeeeee**" - eeeeeeeee
+### Credits
+
+Openwing was made and is maintained by me, Kleosfellow. I have put some games I know and some that I find myself in the list, however I must also thank everyone that has submitted games to enrich the website. Thank you for using and/or for submitting games, without you, this project wouldn't make sense! \:)
