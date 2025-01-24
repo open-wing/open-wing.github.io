@@ -82,6 +82,8 @@ Also, there is the "Indie" genre, that must be always inserted when the game is 
 
 - "**Philosophical**" - any game that makes you think about and question life, or that feature such scenarios
 
+- "**Oldschool**" - any game that is either really old and traditional (and that still is atleast recognizable), or that is a new/revamped version of a very old game, that is faithful to the original (made by the same developers or not)
+
 - "**Western**" - games that take place or are inspired in the Western Frontier of the USA anywhere in the 1850s–1910s (or somewhere close to there) or that depict Manifest Destiny
 
 - "**Showcase**" - games that are made to showcase a place or a building, generally made by very experienced builders of a team of them, and mostly they don't contain much gameplay
@@ -95,6 +97,8 @@ Also, there is the "Indie" genre, that must be always inserted when the game is 
 - "**Melee**" - games opposing to shooting games, where its main mechanic includes melee weapons, contrasting with gun or bow games for example (shooting games that also have melee fighting options are not included)
 
 - "**Social experiment**" - games that are made to test mental experiment on players in order to see how they react to something (if in doubt, check the other submissions with the social experiment genre)
+
+- "**Alien**" - games that depict life in other planets or depicts aliens, an alien invasion, alien stuff, or some sort of thing involving aliens
 
 ### Credits
 
