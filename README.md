@@ -47,3 +47,53 @@ After you have done that, it should look something like this. Do not forget to p
 ![image](https://github.com/user-attachments/assets/0c02f4a9-cf20-41dc-9e36-7f137db06db5)
 
 5. Finally, just open a pull request based on your fork and I will soon review it, play the game, and add your submission. Thank you for contributing to Openwing!
+
+### Genres
+
+To better organize games and make it easier to find them, all the games in Openwing have multiple genres, some obligatory and some made by the submitter. Here is a list of the genres you must put, that are not optional. First, the size-based ones:
+
+- "**Massive**" - applied to games that usually recieve over 1k players. Very rare.
+
+- "**Big**" - applied to games that recieve usual player counts above 100 and less than 1k, and that actively recieve updates.
+
+- "**Medium**" - applied to games that recieve player counts from 100-30, and/or that are actively updated by their developers when needed.
+
+- "**Small**" - applied to games that recieve usual player counts from 30-10, and/or that are mildly updated once in a while by its developers.
+
+- "**Moribund**" - applied to games that rarely but sometimes recieve players, but in very small quantities (basically up to 10 or so), and that the developers have mostly abandoned it.
+
+- "**Abandoned**" - applied to games that recieve no players for a long time, are forgotten to time, and/or its developers have abandoned it.
+
+Also, there is the "Indie" genre, that must be always inserted when the game is made by one single developer, with very few to no contributions from others. Then, there are the pre-existing genres. These ones should be applied to games that fill specific requirements. Other than these, you can create your own genres as you see fit, or suggest a new one.
+
+- "**Shooting**" - any game that involves shooting as its one of its main goals
+
+- "**FPS**" - shooting games that are exclusively or mostly in first person
+
+- "**Realistic**" - games that have mechanics very similar to IRL and have put a high emphasis on that (a bit subjective)
+
+- "**Horror**" - horror games, no clarification needed
+
+- "**Singleplayer**" - when the game isn't multiplayer (no "Multiplayer" genre is necessary when the game isn't singleplayer)
+
+- "**Open world**" - games that have a map where you can freely walk, independent of tasks, quests, or limitations (no matter the size of the map)
+
+- "**Medieval**" - games inspired or that take place in the middle ages in Europe (for other continents... well idk really)
+
+- "**Philosophical**" - any game that makes you think about and question life, or that feature such scenarios
+
+- "**Western**" - games that take place or are inspired in the Western Frontier of the USA anywhere in the 1850s–1910s (or somewhere close to there) or that depict Manifest Destiny
+
+- "**Showcase**" - games that are made to showcase a place or a building, generally made by very experienced builders of a team of them, and mostly they don't contain much gameplay
+
+- "**Spiritual**" - any game that has a religious or esoteric value to it that you personally think that transcends Roblox, be it intentionally or unintentionally (is a reserved and rare genre)
+
+- "**Multiple endings**" - games that have various different story endings to them, and they may or may not have as one of the main goals of it to collect them all
+
+- "**Battlegrounds**" - any game where you are thrown in a map or an arena and is expected to fight other players (or bots, but must also include players) to death, all at once
+
+- "**Melee**" - games opposing to shooting games, where its main mechanic includes melee weapons, contrasting with gun or bow games for example (shooting games that also have melee fighting options are not included)
+
+- "**Social experiment**" - eeeeeeeee
+
+- "**eeeeeeeeeeee**" - eeeeeeeee
