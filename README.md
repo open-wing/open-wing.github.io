@@ -90,6 +90,8 @@ Also, there is the "Indie" genre, that must be always inserted when the game is 
 
 - "**Spiritual**" - any game that has a religious or esoteric value to it that you personally think that transcends Roblox, be it intentionally or unintentionally (is a reserved and rare genre)
 
+- "**Matches**" - games that have match systems - for example, there may be a lobby (physical or UI), different maps, gamemodes, etc, or just matches really (you get the point)
+
 - "**Multiple endings**" - games that have various different story endings to them, and they may or may not have as one of the main goals of it to collect them all
 
 - "**Battlegrounds**" - any game where you are thrown in a map or an arena and is expected to fight other players (or bots, but must also include players) to death, all at once
