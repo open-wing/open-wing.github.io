@@ -68,7 +68,7 @@ Also, there is the "Indie" genre, that must be always inserted when the game is 
 
 - "**Shooting**" - any game that involves shooting as its one of its main goals
 
-- "**FPS**" - shooting games that are exclusively or mostly in first person
+- "**FPS**" - shooting games that are exclusively or mostly in first person (stacks with "Shooting")
 
 - "**Realistic**" - games that have mechanics very similar to IRL and have put a high emphasis on that (a bit subjective)
 
