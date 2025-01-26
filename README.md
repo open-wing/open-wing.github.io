@@ -112,6 +112,10 @@ Also, there is the "Indie" genre, that must be always inserted when the game is 
 
 - "**Alien**" - games that depict life in other planets or depicts aliens, an alien invasion, alien stuff, or some sort of thing involving aliens
 
+### I found a bug
+
+That is great! Please report it [here](https://github.com/open-wing/open-wing.github.io/issues/new?template=Blank+issue) (also if you have a suggestion), thanks!
+
 ### Credits
 
-Openwing was made and is maintained by me, Kleosfellow. I have put some games I know and some that I find myself in the list, however I must also thank everyone that has submitted games to enrich the website. Thank you for using and/or for submitting games, without you, this project wouldn't make sense! \:)
+Openwing was made and is maintained by me, Kleosfellow. I have put some games I know and some that I find myself in the list, however I must also thank everyone that has submitted games to enrich the website. Thank you for using OW and/or for submitting games, without you, this project wouldn't make sense! \:)
