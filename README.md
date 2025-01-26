@@ -7,7 +7,7 @@ Simple, barebones, no-bs website made to make it easier to find hidden gems and 
 ```js
 {
       "id": "example", // One word only, remove spaces.
-      "name": "Example", // Full name of the game. Do not include words like [BETA], [UPDATE], [NEW], etc.
+      "name": "Example", // Full name of the game. Do not include emojis or words like [BETA], [UPDATE], [NEW], etc.
       "link": "https://www.roblox.com/games/123/example", // Copy and paste the link.
       "creator": "example", // If the game is indie, the username of the developer. If the game is made by a group, its name.
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ut ornare velit, ac lobortis nulla. Suspendisse eu nulla viverra, maximus arcu in, porta neque. Donec eget vestibulum libero. Integer fringilla faucibus ultrices. Ut et lectus rhoncus, pharetra neque id, tincidunt tortor. Cras massa dui, tempus non urna vel, lobortis gravida massa.", // One paragraph - describe from your perspective the game, base it off already existing descriptions in 'games.json'. You can be subjective.
@@ -97,6 +97,14 @@ Also, there is the "Indie" genre, that must be always inserted when the game is 
 - "**Battlegrounds**" - any game where you are thrown in a map or an arena and is expected to fight other players (or bots, but must also include players) to death, all at once
 
 - "**Historical**" - games that faithfully depict historical moments, battles, etc
+
+- "**Pirate**" - games that are inspired in, or depict maritime piracy from the 1650s to the 1730s (or later if the aesthetics are similar) in the Caribbean region
+
+- "**Japanese**" - games that are heavily inspired in or take place in Japan, at any year - past, present, or future
+
+- "**Chinese**" - games that are heavily inspired in or take place in China, at any year - past, present, or future
+  
+- "**Korean**" - games that are heavily inspired in or take place in the Korean peninsula, at any year - past, present, or future
 
 - "**Melee**" - games opposing to shooting games, where its main mechanic includes melee weapons, contrasting with gun or bow games for example (shooting games that also have melee fighting options are not included)
 
