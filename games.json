@@ -133,6 +133,21 @@
       "age": "10+",
       "R6": true,"R15": false,
       "vc": false
+    },
+    {
+      "id": "thetroubles",
+      "name": "The Troubles",
+      "link": "https://www.roblox.com/games/6271750846/UPDATE-The-Troubles-Beta-V4",
+      "creator": "The Troublеs Community",
+      "description": "A fun and mostly acurrate historical game that depicts the Troubles as a FPS. You can play in various maps and two gamemodes, either as the as a member of the IRA or of the British Army, and engage in various types of combat: From large scale battles with helicopters and APCs, to close quarters combat in an urban environment.",
+      "submitted_by": "Kleosfellow",
+      "icon": "https://tr.rbxcdn.com/180DAY-f2c9152b6d9de6201144c1e5c193c42a/150/150/Image/Webp/noFilter",
+      "banner": "https://tr.rbxcdn.com/180DAY-609557e2de93602c8c6f443731fa6a6f/768/432/Image/Webp/noFilter",
+      "genres": ["Medium", "FPS", "Shooting", "Historical", "Realistic", "Matches"],
+      "age": "13+",
+      "R6": true,
+      "R15": false,
+      "vc": false
     }
   ]
 }
