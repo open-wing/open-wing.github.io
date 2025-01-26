@@ -96,6 +96,8 @@ Also, there is the "Indie" genre, that must be always inserted when the game is 
 
 - "**Battlegrounds**" - any game where you are thrown in a map or an arena and is expected to fight other players (or bots, but must also include players) to death, all at once
 
+- "**Historical**" - games that faithfully depict historical moments, battles, etc
+
 - "**Melee**" - games opposing to shooting games, where its main mechanic includes melee weapons, contrasting with gun or bow games for example (shooting games that also have melee fighting options are not included)
 
 - "**Social experiment**" - games that are made to test mental experiment on players in order to see how they react to something (if in doubt, check the other submissions with the social experiment genre)
