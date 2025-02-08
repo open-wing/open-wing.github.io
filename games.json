@@ -217,7 +217,7 @@
       "description": "WWWWWWWWWWWWWWWWWWWWWWW",
       "submitted_by": "Kleosfellow",
       "icon": "https://tr.rbxcdn.com/180DAY-c9b7647c29306f029850e0b60447fad3/512/512/Image/Webp/noFilter",
-      "banner": "images/gamemedia/dreamgame.gif",
+      "banner": "../images/gamemedia/dreamgame.gif",
       "genres": ["Moribund", "Open world", "Shooting", "Historical", "Pirate", "Indie"],
       "age": "all ages",
       "R6": true,
