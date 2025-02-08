@@ -89,5 +89,12 @@ function loadGameDetails(jsonPath) {
         ageVal.title = "Age Restriction";
         movementContainer.appendChild(ageVal);
       }
+      if (game.otherversion && game.otherlink) {
+        const otherStr = document.createElement("img"); 
+        otherStr.src = "../images/otherversions.png";
+        otherStr.title = "This game has another version - " + game.otherversion;
+        otherStr.onclick = () => window.location.href = game.otherlink;
+        movementContainer.appendChild(otherStr);
+      }
     });
 }
