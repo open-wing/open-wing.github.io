@@ -19,6 +19,10 @@ Simple, barebones, no-bs website made to make it easier to find hidden gems and 
       "R6": true, // True or \false values; Select one of them if the game is only that rig type, the two if the game is 'User Choice' and none if the game doesn't use neither.
       "R15": false, // Same as above.
       "vc": false // True if the game supports voice chat, false if it doesn't.
+
+      // OPTIONAL PART, WILL RARELY BE APPLICABLE SO YOU CAN DELETE THE TEXT BELOW IN MOST CASES
+      "otherversion": "Classic, it is different because this and that." // Some games have another version of themselves, for example, if an old inactive game gets revived and rescripted by other developers and it turns out it is more active, known and fun than the original one, the original dead one may be linked here with "Classic inactive version". Just a suggestion though, and there are other cases where "otherversion" can be useful, like when the same game has 2 different versions (but it is still the same game) that are different Roblox "experiences". If you are in doubt, don't add it. Btw, it is helpful to know that when you hover your mouse over the "other version" icon, it will show the following: "This game has another version - the text you put in otherversion", so don't put a space before the first character and start with a capital letter, ending with proper punctuation.
+      "otherlink": "https://www.roblox.com/games/124/example", // Copy and paste the link of this other version.
     }
 ```
 3. After having saved the edited text somewhere, fork this repository, go to 'games.json', and add comma exactly where the pointer is, then paste the text you just saved.
@@ -100,7 +104,9 @@ Also, there is the "Indie" genre, that must be always inserted when the game is 
 
 - "**Pirate**" - games that are inspired in, or depict maritime piracy from the 1650s to the 1730s (or later if the aesthetics are similar) in the Caribbean region
 
-- "**Japanese**" - games that are heavily inspired in or take place in Japan, at any year - past, present, or future
+- "**Anime**" - games that depict an anime
+
+- "**Japanese**" - games that are heavily inspired in or take place in Japan, at any year - past, present, or future (different from Anime, but a game can be Anime and Japanese at the same time)
 
 - "**Chinese**" - games that are heavily inspired in or take place in China, at any year - past, present, or future
   
