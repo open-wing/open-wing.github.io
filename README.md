@@ -68,7 +68,7 @@ To better organize games and make it easier to find them, all the games in Openw
 
 - "**Abandoned**" - applied to games that recieve no players for a long time, are forgotten to time, and/or its developers have abandoned it.
 
-Also, there is the "Indie" genre, that must be always inserted when the game is made by one single developer, with very few to no contributions from others. Then, there are the pre-existing genres. These ones should be applied to games that fill specific requirements. Other than these, you can create your own genres as you see fit, or suggest a new one.
+Also, there is the "Indie" genre, that must be always inserted when the game is made by one single developer, with very few to no contributions from others. Then, there are the pre-existing genres. These ones should be applied to games that fill specific requirements. Other than these, you can create your own genres as you see fit, or suggest a new one. Please do not use "Multiplayer", "Fighting", "RPG" and/or "PvP".
 
 - "**Shooting**" - any game that involves shooting as its one of its main goals
 
@@ -104,7 +104,7 @@ Also, there is the "Indie" genre, that must be always inserted when the game is 
 
 - "**Pirate**" - games that are inspired in, or depict maritime piracy from the 1650s to the 1730s (or later if the aesthetics are similar) in the Caribbean region
 
-- "**Anime**" - games that depict an anime
+- "**Anime**" - games that depict an anime or have a similar style (do not mix it up with Japanese, the two are not interchangable)
 
 - "**Japanese**" - games that are heavily inspired in or take place in Japan, at any year - past, present, or future (different from Anime, but a game can be Anime and Japanese at the same time)
 
@@ -117,6 +117,10 @@ Also, there is the "Indie" genre, that must be always inserted when the game is 
 - "**Social experiment**" - games that are made to test mental experiment on players in order to see how they react to something (if in doubt, check the other submissions with the social experiment genre)
 
 - "**Alien**" - games that depict life in other planets or depicts aliens, an alien invasion, alien stuff, or some sort of thing involving aliens
+
+- "**PvE**" - games that have player vs entity combat as their only goal (player-vs-player is the default and such games should not be tagged with "PvP")
+
+- "**Classic RPG**" - a game where you must complete quests (or not), kill enemies, etc. to increase your level/rank/tier/xp to kill more enemies and unlock more areas - do not use only RPG, as it is a very vague term
 
 ### I found a bug
 
