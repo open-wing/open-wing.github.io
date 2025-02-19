@@ -122,6 +122,10 @@ Also, there is the "Indie" genre, that must be always inserted when the game is 
 
 - "**Classic RPG**" - a game where you must complete quests (or not), kill enemies, etc. to increase your level/rank/tier/xp to kill more enemies and unlock more areas - do not use only RPG, as it is a very vague term
 
+- "**Heist**" - games that have as one of their primary objectives a bank heist or something similar
+
+- "**Agent**" - games that depict spies, agents, or stealth jobs/professions/missions/etc, that are usually, but not always, criminal
+
 ### I found a bug
 
 That is great! Please report it [here](https://github.com/open-wing/open-wing.github.io/issues/new?template=Blank+issue) (also if you have a suggestion), thanks!
